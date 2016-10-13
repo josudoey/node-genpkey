@@ -1,0 +1,19 @@
+{
+  "name": "node-genpkey",
+  "version": "1.0.0",
+  "description": "generate key by openssl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josudoey/node-genpkey.git"
+  },
+  "author": "Joey Fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josudoey/node-genpkey/issues"
+  },
+  "homepage": "https://github.com/josudoey/node-genpkey#readme"
+}
